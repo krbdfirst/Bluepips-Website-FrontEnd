@@ -4,8 +4,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: o;
-    font-size: 0.8rem;
-    overflow: hidden;
+    font-size: 1rem;
 }
 
 :root {
