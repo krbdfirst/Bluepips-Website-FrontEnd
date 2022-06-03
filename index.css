@@ -288,7 +288,7 @@ svg {
 .contact {
     min-height: 80vh;
     display: flex;
-    padding: 200px 0;
+    padding: 80px 0;
 }
 
 .contact .container {
@@ -426,6 +426,6 @@ footer .socials {
     }
 
     footer {
-        padding: 150px 0;
+        padding: 100px 0;
     }
 }
