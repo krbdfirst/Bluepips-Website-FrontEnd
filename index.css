@@ -4,6 +4,8 @@
     box-sizing: border-box;
     margin: 0;
     padding: o;
+    font-size: 0.8rem;
+    overflow: hidden;
 }
 
 :root {
@@ -287,6 +289,7 @@ svg {
 .contact {
     min-height: 80vh;
     display: flex;
+    padding: 200px, 0;
 }
 
 .contact .container {
