@@ -442,6 +442,7 @@ footer .socials {
         position: fixed;
         width: 100vw;
         z-index: 2;
+        margin-bottom: 80px;
     }
 
     .menu-items {
