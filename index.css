@@ -114,6 +114,7 @@ svg {
 .page-header {
     min-height: 90vh;
     display: flex;
+
 }
 
 .page-header .container {
@@ -442,7 +443,7 @@ footer .socials {
         position: fixed;
         width: 100vw;
         z-index: 2;
-        margin-bottom: 80px;
+
     }
 
     .menu-items {
@@ -497,5 +498,9 @@ footer .socials {
 
     .navbar .logo {
         width: 55px;
+    }
+
+    .page-header {
+        padding-top: 85px;
     }
 }
