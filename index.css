@@ -516,7 +516,7 @@ footer .socials {
     }
 
     .about::before {
-        transform: skew(0deg, 8deg);
-        top: 85%;
+        transform: skew(0deg, 5deg);
+        top: 88%;
     }
 }
